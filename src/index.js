@@ -1,5 +1,6 @@
 document.addEventListener("DOMContentLoaded", () => {
   // your code here
+  // console.log("test")
   const processInput = inputEvent => {
     inputEvent.preventDefault()
     // console.log(inputEvent.target[0].value)
